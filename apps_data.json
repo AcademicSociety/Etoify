@@ -1,0 +1,26 @@
+{
+    "tools": [
+        {
+            "title": "Pomodoro Timer",
+            "desc": "Focus Session timer & Task manager.",
+            "path": "data_app/timer_pc.html",
+            "type": "html"
+        }
+    ],
+    "programs": [
+        {
+            "title": "VS Code",
+            "desc": "Code Editor",
+            "path": "C:/Users/MohammedEto/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+            "type": "exe"
+        }
+    ],
+    "games": [
+        {
+            "title": "Chess",
+            "desc": "Play Chess Offline.",
+            "path": "C:/Games/Chess/chess.exe",
+            "type": "exe"
+        }
+    ]
+}
